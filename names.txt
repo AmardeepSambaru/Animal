@@ -1,6 +1,6 @@
-pet names:
-jimi
-hoo
+Animal names:
+pig
+rat
 cat name is cat
 dog name is dog
 chicken
